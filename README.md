@@ -1,3 +1,7 @@
+# About Me
+
+I am a student learning Git, GitHub, and software development.
+
 # Student Portfolio - My Portfolio
 
 This repository contains my student portfolio and Git practice work.
