@@ -1,9 +1,11 @@
 # Technical Skills
 
-- C
+- Git
+- GitHub
 - Java
+- C
+- JavaScript
 - Python
 - HTML
 - CSS
-- JavaScript
 - SQL
