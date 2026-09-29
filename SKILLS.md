@@ -5,3 +5,7 @@
 - Java
 - C
 - JavaScript
+- Python
+- HTML
+- CSS
+- SQL
